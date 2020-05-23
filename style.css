@@ -1,5 +1,12 @@
-    *{ padding:0;
+*{ padding:0;
       margin: 0;
       text-style: none;
       box-sizing: border-box;
     }
+body{
+   front-family:monserrat;
+}
+nav{
+   backgroand: #0082e6;
+   height: 80px;
+}
