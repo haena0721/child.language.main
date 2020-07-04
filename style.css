@@ -18,9 +18,7 @@ ul li a{ text-decoration:none;
       
  ul li a:hover{ text-decoration:underline;}
 
-img{ position: absolution;
-    left: 500px;
-    top: 500px;
+img{ magarin : 0px auto;
 }
     
         
