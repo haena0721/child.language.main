@@ -17,5 +17,11 @@ ul li a{ text-decoration:none;
 
       
  ul li a:hover{ text-decoration:underline;}
+
+img{ position: absolution;
+    left: 100px;
+    right: 100px;
+}
+    
         
 
